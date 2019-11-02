@@ -1,1 +1,8 @@
 Add research below
+
+possible Transducers:
+-Strain gauge transducer
+-pressure sensor
+-load cell transducer
+-piezoelectric transducer
+
