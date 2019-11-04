@@ -1,1 +1,2 @@
-Many sensors come with free programs or downloadable libraries that let us understand the senors output which we can possiblity reformat into another type of displayed output
+Many sensors come with free programs or downloadable libraries that let us understand the senors output which we can possiblity reformat into another type of displayed output.
+possible site to buy sensors: https://ams.com/sensor-interfaces
